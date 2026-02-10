@@ -57,15 +57,6 @@ Perfect for synchronizing photos from different devices (e.g., action cameras la
 - Excel times are parsed robustly (supports many formats including partial times and Excel serial dates).
 - The tool runs entirely locally — no internet connection required.
 
-## Screenshots
-
-*(Add screenshots here once you have them — they display nicely on GitHub)*
-
-Example workflow:
-- Initial setup screen
-- Photo selection grid for one camera
-- Matching preview table
-
 ## Contributing
 
 Feel free to open issues or pull requests! Suggestions for improvements (e.g., better thumbnail highlighting, drag-and-drop support, or additional file formats) are welcome.
